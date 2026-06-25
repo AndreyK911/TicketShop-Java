@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticketshop
 
 # Ticket Shop
@@ -26,3 +27,6 @@ Um das Projekt lokal auszuführen, sind nur zwei Schritte erforderlich.
 Ich wollte mit diesem Projekt nicht zeigen, dass ich ein Profi bin, sondern dass ich bereit bin, selbstständig zu lernen, Verantwortung für meine Entwicklung zu übernehmen und mich schnell in neue Technologien einzuarbeiten. 
 
 Wenn ich mir den Code heute ansehe, fallen mir direkt Dinge auf, die ich jetzt anders lösen würde. Die Benutzereingaben über den Scanner sollten nicht direkt in den Service-Methoden wie addEvent() stecken, sondern sauber in eine eigene Controller-Schicht ausgelagert werden (Single-Responsibility-Prinzip). Auch Fehleingaben beim Datum würde ich heute eher mit Custom Exceptions statt mit einfachen try-catch-Blöcken abfangen. Ich habe die Struktur dennoch bewusst authentisch gelassen, um meinen realen Fortschritt zu zeigen.
+=======
+# TicketShop-Java
+>>>>>>> f0558be65d2d95daec848ee893083f1bdceb972b
